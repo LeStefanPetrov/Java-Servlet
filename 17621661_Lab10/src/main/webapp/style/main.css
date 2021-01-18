@@ -1,0 +1,246 @@
+.containerMain {
+  width: 100%;
+  height: 1600px;
+  background-color: #ccc;
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+  background-color: #012e5e;
+  z-index: -1;
+}
+
+.containerInfo {
+  position: relative;
+  width: 70%;
+  height: 300px;
+  
+  margin-top: 20px;
+  margin-left: 15%;
+}
+
+.containerInfoText {
+  position: absolute;
+  width: 50%;
+  height: 300px;
+  margin-left: 35%;
+  margin-top: -300px;
+}
+
+h1 {
+  font-size:200%;
+  color: #012e5e;
+}
+
+h2 {
+  font-size:90%;
+  color: #012e5e;
+}
+
+h3 {
+  font-size:130%;
+  color: #012e5e;
+}
+
+h4 {
+  font-size:130%;
+  color: #ffb606;
+}
+
+body {
+    line-height: 1;
+}
+
+.containerSkills{
+  position: absolute;
+  width: 80%;
+  height: 700px;
+  margin-left: 10%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.containerSkillsProfile{
+  position: absolute;
+  width: 80%;
+  height: 500px;
+  margin-left: 10%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.containerSkillsLeft{
+  position: absolute;
+  width: 35%;
+  height: 400px;
+  background-color: white;
+  border-radius: 20px;
+  padding-left: 50px;
+}
+
+.containerSkillsRight{
+  position: absolute;
+  width: 40%;
+  height: 400px;
+  margin-left: 60%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+
+.lineJava {
+    background: #ffb606;
+    position:relative;
+    height:4px;
+}
+.lineJava:before {
+    content:'';
+    background: #012e5e;
+    width:70%;
+    height:4px;
+    position:absolute;    
+}
+
+.lineHtml {
+    background: #ffb606;
+    position:relative;
+    height:4px;
+}
+.lineHtml:before {
+    content:'';
+    background: #012e5e;
+    width:50%;
+    height:4px;
+    position:absolute;    
+}
+
+.lineCSS {
+    background: #ffb606;
+    position:relative;
+    height:4px;
+}
+.lineCSS:before {
+    content:'';
+    background: #012e5e;
+    width:20%;
+    height:4px;
+    position:absolute;    
+}
+
+.lineJavaScript {
+    background: #ffb606;
+    position:relative;
+    height:4px;
+}
+.lineJavaScript:before {
+    content:'';
+    background: #012e5e;
+    width:35%;
+    height:4px;
+    position:absolute;    
+}
+
+.containerContacts{
+  position: absolute;
+  width: 80%;
+  height: 200px;
+  margin-left: 10%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.containerContactsLeft{
+  position: absolute;
+  width: 35%;
+  height: 200px;
+  background-color: white;
+  border-radius: 20px;
+  padding-left: 50px;
+}
+
+.containerContactsRight{
+  position: absolute;
+  width: 40%;
+  height: 200px;
+  margin-left: 60%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.headerBot {
+  width: 100%;
+  height: 150px;
+  background-color: #012e5e;
+  margin-top: 150px;
+}
+
+
+.containerContacts2{
+  position: absolute;
+  width: 80%;
+  height: 400px;
+  margin-left: 10%;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.headerBotLogin {
+  width: 100%;
+  height: 150px;
+  background-color: #012e5e;
+  margin-top: 850px;
+}
+
+.headerLink {
+  padding-top: 20px;
+  width: 370px;
+  height: 50px;
+  background-color: #012e5e;
+  margin-left: 15%;
+  border: 5px solid #012e5e;
+}
+
+
+
+.headerBotRegistration {
+  width: 100%;
+  height: 150px;
+  background-color: #012e5e;
+  margin-top: 1500px;
+}
+
+.buttonHeaderLogin{
+	padding-left: 20px;
+	padding-top: 10px;
+	width: 65px;
+	height: 30px;
+	background-color: #ffb606;
+	z-index: 1;
+	border-radius: 5px;
+}
+
+.buttonHeaderRegistration{
+	padding-left: 20px;
+	padding-top: 10px;
+	width: 105px;
+	height: 30px;
+	background-color: #ffb606;
+	z-index: 1;
+	border-radius: 5px;
+	margin-left: 105px;
+	margin-top: -40px;
+
+}
+
+.buttonHeaderpProfiles{
+	padding-left: 20px;
+	padding-top: 10px;
+	width: 75px;
+	height: 30px;
+	background-color: #ffb606;
+	z-index: 1;
+	border-radius: 5px;
+	margin-left: 250px;
+	margin-top: -40px;
+}

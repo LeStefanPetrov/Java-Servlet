@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:xmlUsers xmlns:ns2="de.vogella.xml.jaxb.model">
+    <usersList>
+        <user2>
+            <id>1</id>
+            <username>Ivan@abv.bg</username>
+            <password>32322223</password>
+            <phone>0843222222</phone>
+            <city>Varna</city>
+            <address>Primorska 32</address>
+        </user2>
+        <user2>
+            <id>2</id>
+            <username>Petur@abv.bg</username>
+            <password>12342256</password>
+            <phone>0843222222</phone>
+            <city>Burgas</city>
+            <address>Anton Nedelchev</address>
+        </user2>
+        <user2>
+            <id>3</id>
+            <username>Georgi@abv.bg</username>
+            <password>12324256</password>
+            <phone>0843222222</phone>
+            <city>Shumen</city>
+            <address>Kra Kra</address>
+        </user2>
+        <user2>
+            <id>4</id>
+            <username>saaa</username>
+            <password>saaasaaa</password>
+            <phone>saaa</phone>
+            <city>saaa</city>
+            <address>saaa</address>
+        </user2>
+    </usersList>
+    <users>
+        <id>1</id>
+        <username>Ivan@abv.bg</username>
+        <password>32322223</password>
+        <phone>0843222222</phone>
+        <city>Varna</city>
+        <address>Primorska 32</address>
+    </users>
+    <users>
+        <id>2</id>
+        <username>Petur@abv.bg</username>
+        <password>12342256</password>
+        <phone>0843222222</phone>
+        <city>Burgas</city>
+        <address>Anton Nedelchev</address>
+    </users>
+    <users>
+        <id>3</id>
+        <username>Georgi@abv.bg</username>
+        <password>12324256</password>
+        <phone>0843222222</phone>
+        <city>Shumen</city>
+        <address>Kra Kra</address>
+    </users>
+    <users>
+        <id>4</id>
+        <username>saaa</username>
+        <password>saaasaaa</password>
+        <phone>saaa</phone>
+        <city>saaa</city>
+        <address>saaa</address>
+    </users>
+</ns2:xmlUsers>
